@@ -77,11 +77,11 @@ Would you like a version with animations, background images, or form integration
 
 
 
-Ask ChatGPT
 
 
 
-Tools
+
+
 
 
 
